@@ -11,3 +11,4 @@
 - 💬 Ask me about Space and let's chat on that topic for hours.
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/rishabh-sharma7/), [Twitter](https://twitter.com/rishiar4), [Instagram](https://www.instagram.com/the.rishi.sharma/).
 
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishiar4&show_icons=true&hide_border=true)
