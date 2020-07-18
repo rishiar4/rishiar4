@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/48138906/87844647-ada73c00-c8dc-11ea-96af-427f77038aca.gif" width='30px'>
+
   This is Rishabh Sharma this side.   
 <!--
 **rishiar4/rishiar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
