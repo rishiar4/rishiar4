@@ -17,7 +17,7 @@
 
 <p align="right">
   <img align="left" src=https://komarev.com/ghpvc/?username=rishiar4 alt=rishiar4/>
-<a href=https://instagram.com/the.rishi.sharma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="the.rishi.sharma" height="20" width="20" /></a>
-<a href=https://twitter.com/rishiar4 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rishiar4" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/rishabh-sharma7 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rishabh-sharma7" height="20" width="20" /></a>
+<a href=https://instagram.com/the.rishi.sharma target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="the.rishi.sharma" height="20" width="20" /></a>
+<a href=https://twitter.com/rishiar4 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rishiar4" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/rishabh-sharma7 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rishabh-sharma7" height="20" width="20" /></a>
 </p>
